@@ -1,7 +1,9 @@
 # Личный проект «Кэт энерджи»
 
 * Студент: [Константин Ермихин](https://up.htmlacademy.ru/adaptive-individual/1/user/2415207).
-* Наставник: `Андрей Грачев`.
+* Наставник: [Андрей Грачев](https://htmlacademy.ru/profile/angra).
+
+
 
 ---
 
